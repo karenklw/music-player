@@ -138,9 +138,13 @@ h3{
 }
 
 .play-button{
-    font-size: 44px;
+    font-size: 38px;
     position: relative;
     top: 3px;
+}
+
+.fa-play, .fa-pause {
+  width: 30px;
 }
 
 
